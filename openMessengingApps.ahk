@@ -17,3 +17,4 @@ if !WinExist("Messenger"){
 }
 WinRestore, Messenger
 WinMove, ,,(A_ScreenWidth*1.5),0,(A_ScreenWidth/2)+10,(A_ScreenHeight-20)
+Exit, 0
