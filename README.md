@@ -1,2 +1,2 @@
 # ahkScripts
-A place to store autohotkey scripts
+This is just place to store autohotkey scripts
