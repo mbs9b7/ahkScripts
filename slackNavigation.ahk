@@ -10,6 +10,6 @@ WinActivate, Slack
 Send, ^%1%
 Send, ^k
 Send, %2%
-Sleep, 350
+Sleep, 600
 Send, {Enter}
 Return
